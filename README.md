@@ -1,1 +1,1 @@
-# Sales-Prediction-with-Deep-Learning
+# Sales Prediction with Deep Learning
