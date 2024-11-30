@@ -1,0 +1,15 @@
+artifact_uri: /Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/notebooks/../mlruns/795950948391021681/07aa0b578eaf40be8ce76e69af5e7dd0/artifacts
+end_time: 1732939038799
+entry_point_name: ''
+experiment_id: '795950948391021681'
+lifecycle_stage: active
+run_id: 07aa0b578eaf40be8ce76e69af5e7dd0
+run_name: XGBoost_gridsearch_2024-11-30_04-57-13
+run_uuid: 07aa0b578eaf40be8ce76e69af5e7dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732939033145
+status: 4
+tags: []
+user_id: ilyeslenoob

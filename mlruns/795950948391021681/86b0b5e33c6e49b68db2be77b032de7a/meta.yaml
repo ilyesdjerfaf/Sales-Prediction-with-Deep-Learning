@@ -1,0 +1,15 @@
+artifact_uri: /Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/notebooks/../mlruns/795950948391021681/86b0b5e33c6e49b68db2be77b032de7a/artifacts
+end_time: 1732939038706
+entry_point_name: ''
+experiment_id: '795950948391021681'
+lifecycle_stage: active
+run_id: 86b0b5e33c6e49b68db2be77b032de7a
+run_name: resilient-crab-804
+run_uuid: 86b0b5e33c6e49b68db2be77b032de7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732939033145
+status: 3
+tags: []
+user_id: ilyeslenoob

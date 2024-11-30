@@ -1,0 +1,15 @@
+digest: '47019223'
+name: dataset
+profile: '{"num_rows": 4239, "num_elements": 46629}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "year", "required": true}, {"type":
+  "double", "name": "month", "required": true}, {"type": "double", "name": "date_block_num",
+  "required": true}, {"type": "double", "name": "shop_id", "required": true}, {"type":
+  "double", "name": "item_id", "required": true}, {"type": "double", "name": "item_price",
+  "required": true}, {"type": "double", "name": "item_cnt_month_diff_lag_1", "required":
+  true}, {"type": "double", "name": "item_cnt_month_diff_lag_2", "required": true},
+  {"type": "double", "name": "item_cnt_month_diff_lag_3", "required": true}, {"type":
+  "double", "name": "item_cnt_month_diff_lag_6", "required": true}, {"type": "double",
+  "name": "item_cnt_month_diff_lag_12", "required": true}]}'
+source: '{"tags": {"mlflow.user": "ilyeslenoob", "mlflow.source.name": "/Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/venv/lib/python3.13/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

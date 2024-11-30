@@ -1,0 +1,15 @@
+artifact_uri: /Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/notebooks/../mlruns/795950948391021681/4bbc9c4efe9347bdb055e7af01482c8b/artifacts
+end_time: 1732939209767
+entry_point_name: ''
+experiment_id: '795950948391021681'
+lifecycle_stage: active
+run_id: 4bbc9c4efe9347bdb055e7af01482c8b
+run_name: efficient-smelt-810
+run_uuid: 4bbc9c4efe9347bdb055e7af01482c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732939201781
+status: 3
+tags: []
+user_id: ilyeslenoob

@@ -1,0 +1,15 @@
+artifact_uri: /Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/notebooks/../mlruns/795950948391021681/164a108e4dc44c1d8f8f56b830547c39/artifacts
+end_time: 1732939209767
+entry_point_name: ''
+experiment_id: '795950948391021681'
+lifecycle_stage: active
+run_id: 164a108e4dc44c1d8f8f56b830547c39
+run_name: charming-sloth-339
+run_uuid: 164a108e4dc44c1d8f8f56b830547c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732939201781
+status: 3
+tags: []
+user_id: ilyeslenoob

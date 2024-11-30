@@ -1,0 +1,32 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 267394
+model_uuid: 1a79d9bb659f442081a310090ae0feee
+run_id: 07aa0b578eaf40be8ce76e69af5e7dd0
+signature:
+  inputs: '[{"type": "long", "name": "year", "required": true}, {"type": "double",
+    "name": "month", "required": true}, {"type": "double", "name": "date_block_num",
+    "required": true}, {"type": "double", "name": "shop_id", "required": true}, {"type":
+    "double", "name": "item_id", "required": true}, {"type": "double", "name": "item_price",
+    "required": true}, {"type": "double", "name": "item_cnt_day_diff_lag_1", "required":
+    true}, {"type": "double", "name": "item_cnt_day_diff_lag_2", "required": true},
+    {"type": "double", "name": "item_cnt_day_diff_lag_3", "required": true}, {"type":
+    "double", "name": "item_cnt_day_diff_lag_6", "required": true}, {"type": "double",
+    "name": "item_cnt_day_diff_lag_12", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-30 03:57:17.714847'

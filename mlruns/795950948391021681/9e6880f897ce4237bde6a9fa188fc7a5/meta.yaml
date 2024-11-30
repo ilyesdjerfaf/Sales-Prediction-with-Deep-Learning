@@ -1,0 +1,15 @@
+artifact_uri: /Users/ilyeslenoob/Sales-Prediction-with-Deep-Learning/notebooks/../mlruns/795950948391021681/9e6880f897ce4237bde6a9fa188fc7a5/artifacts
+end_time: 1732939308331
+entry_point_name: ''
+experiment_id: '795950948391021681'
+lifecycle_stage: active
+run_id: 9e6880f897ce4237bde6a9fa188fc7a5
+run_name: ARIMA_Model_2024-11-30_05-01-28
+run_uuid: 9e6880f897ce4237bde6a9fa188fc7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732939308325
+status: 3
+tags: []
+user_id: ilyeslenoob
